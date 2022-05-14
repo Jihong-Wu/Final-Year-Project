@@ -1,2 +1,2 @@
 # Final-Year-Project
-Code of my final year project of Lanzhou University 
+Some code examples of my final year project, "Matrix Product State and Time-dependent Variarional Principles"
