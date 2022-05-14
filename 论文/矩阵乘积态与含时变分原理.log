@@ -1,0 +1,2142 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.13)  14 MAY 2022 09:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex
+(d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (d:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(d:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctex.sty (d:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (d:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+))
+Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
+ (d:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (d:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+) (d:/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (d:/texlive/2022/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count194
+\l__ctex_tmp_box=\box51
+\l__ctex_tmp_dim=\dimen139
+\g__ctex_section_depth_int=\count195
+\g__ctex_font_size_int=\count196
+ (d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+
+Package ctex Warning: UTF8 will be used as the default encoding.
+
+(d:/texlive/2022/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2021/12/12 v2.5.8 (pdf)LaTeX adapter (CTEX)
+ (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (d:/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (d:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (d:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box52
+) (d:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)) (d:/texlive/2022/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count197
+\CJKpunct@cntb=\count198
+\CJKpunct@cntc=\count199
+\CJKpunct@cntd=\count266
+\CJKpunct@cnte=\count267
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (d:/texlive/2022/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2021/12/12 v2.5.8 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen140
+\l__ctex_ccglue_skip=\skip49
+)
+\l__ctex_ziju_dim=\dimen141
+ (d:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count268
+\l__zhnum_byte_min_int=\count269
+\l__zhnum_byte_max_int=\count270
+ (d:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+)) (d:/texlive/2022/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTEX)
+ (d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+)) (d:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX)
+)) (d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+) (d:/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count271
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
+) (d:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (d:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (d:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks21
+) (d:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (d:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (d:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (d:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (d:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen152
+)) (d:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (d:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count280
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip16
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks23
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks24
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks25
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (d:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (d:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen161
+\captionmargin=\dimen162
+\caption@leftmargin=\dimen163
+\caption@rightmargin=\dimen164
+\caption@width=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count287
+\c@continuedfloat=\count288
+Package caption Info: float package is loaded.
+) (d:/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count289
+\c@subtable=\count290
+) (d:/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (d:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+) (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (d:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (./矩阵乘积态与含时变分原理.aux)
+\openout1 = `矩阵乘积态与含时变分原理.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 486.25761pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=486.25761pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(d:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen169
+\scratchbox=\box57
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen170
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks28
+) (d:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for C70+zhhei on input line 27.
+ (d:/texlive/2022/texmf-dist/tex/latex/zhmetrics/c70zhhei.fd
+File: c70zhhei.fd 2009/09/23 4.8.2
+)
+LaTeX Font Info:    Trying to load font information for C70+zhkai on input line 27.
+ (d:/texlive/2022/texmf-dist/tex/latex/zhmetrics/c70zhkai.fd
+File: c70zhkai.fd 2009/09/23 4.8.2
+)
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 27.
+ (d:/texlive/2022/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
+) (d:/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{d:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+]
+No file 矩阵乘积态与含时变分原理.toc.
+\tf@toc=\write3
+\openout3 = `矩阵乘积态与含时变分原理.toc'.
+
+LaTeX Font Info:    Trying to load font information for C70+zhsong on input line 31.
+(d:/texlive/2022/texmf-dist/tex/latex/zhmetrics/c70zhsong.fd
+File: c70zhsong.fd 2009/09/23 4.8.2
+)
+Package CJKpunct Info: use punctuation spaces for family 'zhsong' with punctstyle (quanjiao) on input line 31.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 34.
+Package CJKpunct Info: use punctuation spaces for family 'zhhei' with punctstyle (quanjiao) on input line 35.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+Overfull \hbox (17.96512pt too wide) in paragraph at lines 48--49
+[]\OT1/cmr/m/n/12 1992\C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 White\C70/rm/m/n/12/63 � \C70/rm/m/n/12/51 � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/5e � \C70/rm/m/n/12/77 � \C70/rm/m/n/12/96 5 \C70/rm/m/n/12/91 � \C70/rm/m/n/12/65 t \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/7f � \C70/rm/m/n/12/7b � \C70/rm/m/n/12/6c �\OT1/cmr/m/n/12 (Density Ma-trix Renor-mal-iza-tion Group, DMRG)|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Overfull \hbox (13.32434pt too wide) in paragraph at lines 48--49
+\C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/4e : � \C70/rm/m/n/12/78 ^^T \C70/rm/m/n/12/7a v \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/7e � \C70/rm/m/n/12/91 � \C70/rm/m/n/12/5b P \C70/rm/m/n/12/68 < \C70/rm/m/n/12/70 � \C70/rm/m/n/12/7c � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/5f : \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/76 � \C70/rm/m/n/12/65 p \C70/rm/m/n/12/50 < \C70/rm/m/n/12/65 � \C70/rm/m/n/12/6c �|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/53 � \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/65 � \C70/rm/m/n/12/97 b|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/77 � \C70/rm/m/n/12/96 5 \C70/rm/m/n/12/4e X \C70/rm/m/n/12/79 � \C70/rm/m/n/12/60 ^^A\OT1/cmr/m/n/12 (Matrix Prod-uct State)\C70/rm/m/n/12/4f \
+ []
+
+
+Overfull \hbox (15.98259pt too wide) in paragraph at lines 48--49
+\C70/rm/m/n/12/4e : \C70/rm/m/n/12/91 � \C70/rm/m/n/12/5b P \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/76 � \C70/rm/m/n/12/63 � \C70/rm/m/n/12/8f � \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e � ^^@ \C70/rm/m/n/12/7e �\OT1/cmr/m/n/12 AKLT\C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/76 � \C70/rm/m/n/12/78 ^^T \C70/rm/m/n/12/7a v|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/96 � \C70/rm/m/n/12/54 ^^N\OT1/cmr/m/n/12 DMRG\C70/rm/m/n/12/54 �\OT1/cmr/m/n/12 MPS\C70/rm/m/n/12/76 � \C70/rm/m/n/12/87 � \C70/rm/m/n/12/54 ^^H|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5e � \C70/rm/m/n/12/7a � \C70/rm/m/n/12/4e � ^^@ \C70/rm/m/n/12/59 W \C70/rm/m/n/12/65 � \C70/rm/m/n/12/76 �\OT1/cmr/m/n/12 DMRG\C70/rm/m/n/12/7b �
+ []
+
+
+LaTeX Warning: Citation `papic2021weak' on page 5 undefined on input line 50.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��量图形...
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��量图形...
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��量图形...
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `1.张量图形表示' not found on input line 59.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:59: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...egraphics[scale=0.7]{1.张量图形表示}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��量网络...
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��量网络...
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��量网络...
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `2.张量网络收缩' not found on input line 67.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:67: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 ...egraphics[scale=0.7]{2.张量网络收缩}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `schollwock2011density' on page 6 undefined on input line 77.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `3.矩阵乘积态示意' not found on input line 84.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:84: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...aphics[scale=0.7]{3.矩阵乘积态示意}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (42.36978pt too wide) in paragraph at lines 80--87
+\C70/rm/m/n/12/51 v \C70/rm/m/n/12/4e - \C70/rm/m/n/12/6b � \C70/rm/m/n/12/4e ^^@ *$\OML/cmm/m/it/12 M[]$\C70/rm/m/n/12/76 � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/5e � \C70/rm/m/n/12/4e :$\OML/cmm/m/it/12 ^^_[] \OMS/cmsy/m/n/12 ^^B \OML/cmm/m/it/12 ^^_[]$|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 []$\C70/rm/m/n/12/79 � \C70/rm/m/n/12/4e : \C70/rm/m/n/12/86 Z \C70/rm/m/n/12/62 � \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/68 ^^G|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 j[]$\C70/rm/m/n/12/79 � \C70/rm/m/n/12/4e : \C70/rm/m/n/12/72 i \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/68 ^^G|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/4e $ * \C70/rm/m/n/12/8f � \C70/rm/m/n/12/75 L \C70/rm/m/n/12/76 �$\OML/cmm/m/it/12 M[]; M[]$\C70/rm/m/n/12/52 ^^F
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+Overfull \hbox (48.48796pt too wide) in paragraph at lines 102--103
+[]\C70/rm/m/n/12/80 ^^C \C70/rm/m/n/12/86 Q \C70/rm/m/n/12/67 	\OT1/cmr/m/n/12 L\C70/rm/m/n/12/4e * \C70/rm/m/n/12/68 < \C70/rm/m/n/12/70 �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/6b � \C70/rm/m/n/12/4e * \C70/rm/m/n/12/68 < \C70/rm/m/n/12/70 � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/5e � \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 d\C70/rm/m/n/12/7e � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/7c � \C70/rm/m/n/12/7e �|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/91 � \C70/rm/m/n/12/5b P \C70/rm/m/n/12/60 ^^A \C70/rm/m/n/12/88 h \C70/rm/m/n/12/79 : \C70/rm/m/n/12/4e :$\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 	\OMS/cmsy/m/n/12 i \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 C[]\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 j[]; :::; j[]\OMS/cmsy/m/n/12 i$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `4.矩阵乘积态分解' not found on input line 118.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:118: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...phics[scale=0.7]{4.矩阵乘积态分解}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+LaTeX Warning: Citation `hauschild2018efficient' on page 9 undefined on input line 136.
+
+
+LaTeX Warning: Citation `schollwock2011density' on page 9 undefined on input line 146.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `5.矩阵乘积态规范自由度' not found on input line 149.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:149: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 ...le=0.7]{5.矩阵乘积态规范自由度}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��左右正...
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��左右正...
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��左右正...
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `6.MPS的左右正交形式' not found on input line 157.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:157: LaTeX Error: Unknown graphics extension: .MPS.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ...cs[scale=0.7]{6.MPS的左右正交形式}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `vanderstraeten2019tangent' on page 9 undefined on input line 162.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��阵乘积...
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `7.矩阵乘积态混合正交形式' not found on input line 171.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:171: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 ...0.7]{7.矩阵乘积态混合正交形式}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+LaTeX Warning: Citation `pirvu2010matrix' on page 11 undefined on input line 184.
+
+
+LaTeX Warning: Citation `schollwock2011density' on page 11 undefined on input line 184.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��用到MPS...
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��用到MPS...
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��用到MPS...
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `8.MPO作用到MPS上' not found on input line 199.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:199: LaTeX Error: Unknown graphics extension: .MPO.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.199 ...graphics[scale=0.7]{8.MPO作用到MPS上}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (16.36005pt too wide) in paragraph at lines 206--207
+[]\C70/rm/m/n/12/5b � \C70/rm/m/n/12/5e � \C70/rm/m/n/12/77 � \C70/rm/m/n/12/96 5 \C70/rm/m/n/12/91 � \C70/rm/m/n/12/65 t \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/7f �\OT1/cmr/m/n/12 (DMRG)\C70/rm/m/n/12/7b � \C70/rm/m/n/12/6c � \C70/rm/m/n/12/75 1\OT1/cmr/m/n/12 Steven White\C70/rm/m/n/12/63 � \C70/rm/m/n/12/51 �|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/96 � \C70/rm/m/n/12/54 ^^N \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/65 � \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/5f b \C70/rm/m/n/12/62 ^^P \C70/rm/m/n/12/4e � �\OT1/cmr/m/n/12 MPS\C70/rm/m/n/12/54 �\OT1/cmr/m/n/12 MPO\C70/rm/m/n/12/4e :
+ []
+
+
+LaTeX Warning: Citation `schollwock2011density' on page 11 undefined on input line 208.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��效哈密...
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��效哈密...
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��效哈密...
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `9.有效哈密顿量示意' not found on input line 215.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:215: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.215 ...cs[scale=0.7]{9.有效哈密顿量示意}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��解.
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��解.
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��解.
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `10.SVD分解' not found on input line 227.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:227: LaTeX Error: Unknown graphics extension: .SVD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 ...\includegraphics[scale=0.7]{10.SVD分解}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `vidal2003efficient' on page 12 undefined on input line 238.
+
+
+Overfull \hbox (27.94078pt too wide) in paragraph at lines 239--241
+\C70/rm/m/n/12/65 � \C70/rm/m/n/12/95 � \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/7b � &$\OML/cmm/m/it/12 U$\C70/rm/m/n/12/53 � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/66 / \C70/rm/m/n/12/5b � \C70/rm/m/n/12/65 � \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/7b � &$\OML/cmm/m/it/12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 exp\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 ^^@\OML/cmm/m/it/12 itH\OT1/cmr/m/n/12 )$|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e _ \C70/rm/m/n/12/53 � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/66 / \C70/rm/m/n/12/86 Z \C70/rm/m/n/12/65 � \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/7b � &$\OML/cmm/m/it/12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^\\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 exp\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 ^^@\OML/cmm/m/it/12 ^^\H\OT1/cmr/m/n/12 )$|\C70/rm/m/n/12/30 ^^B|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��解.
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��解.
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��解.
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `15.Trotter分解' not found on input line 252.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:252: LaTeX Error: Unknown graphics extension: .Trotter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 ...ludegraphics[scale=0.7]{15.Trotter分解}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `hauschild2018efficient' on page 13 undefined on input line 257.
+
+<16.TEBD1step.jpg, id=246, 452.892pt x 142.131pt>
+File: 16.TEBD1step.jpg Graphic file (type jpg)
+<use 16.TEBD1step.jpg>
+Package pdftex.def Info: 16.TEBD1step.jpg  used on input line 264.
+(pdftex.def)             Requested size: 362.31409pt x 113.70493pt.
+<17.TEBD2step.jpg, id=247, 694.9965pt x 134.30174pt>
+File: 17.TEBD2step.jpg Graphic file (type jpg)
+<use 17.TEBD2step.jpg>
+Package pdftex.def Info: 17.TEBD2step.jpg  used on input line 275.
+(pdftex.def)             Requested size: 486.49423pt x 94.01057pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13 <./16.TEBD1step.jpg>]
+
+LaTeX Warning: Citation `haegeman2011time' on page 14 undefined on input line 284.
+
+
+LaTeX Warning: Citation `haegeman2011time' on page 14 undefined on input line 286.
+
+
+Overfull \hbox (8.72919pt too wide) in paragraph at lines 286--287
+[]\C70/rm/m/n/12/56 � \C70/rm/m/n/12/6b d \C70/rm/m/n/12/53 � \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/65 � \C70/rm/m/n/12/95 � \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/76 � \C70/rm/m/n/12/65 � \C70/rm/m/n/12/6c � \C70/rm/m/n/12/66 / \C70/rm/m/n/12/75 1\OT1/cmr/m/n/12 Jutho Haege-man\C70/rm/m/n/12/63 � \C70/rm/m/n/12/51 � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/57 � \C70/rm/m/n/12/4e �\OT1/cmr/m/n/12 MPS\C70/rm/m/n/12/76 � \C70/rm/m/n/12/54 + \C70/rm/m/n/12/65 � \C70/rm/m/n/12/53 � \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/53 � \C70/rm/m/n/12/74 ^^F\OT1/cmr/m/n/12 (TDVP)|\C70/rm/m/n/12/ff ^^L|
+ []
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��意.
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��意.
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��意.
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `11.TDVP示意' not found on input line 294.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:294: LaTeX Error: Unknown graphics extension: .TDVP.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.294 ...includegraphics[scale=0.8]{11.TDVP示意}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14 <./17.TEBD2step.jpg>]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��两种混...
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��两种混...
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��两种混...
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `12.MPS的两种混合正交形式' not found on input line 301.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:301: LaTeX Error: Unknown graphics extension: .MPS.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 ...e=0.7]{12.MPS的两种混合正交形式}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Citation `haegeman2016unifying' on page 15 undefined on input line 306.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��影算符...
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��影算符...
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��影算符...
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `13.投影算符表示' not found on input line 316.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:316: LaTeX Error: Unknown graphics extension: ..
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.316 ...aphics[scale=0.75]{13.投影算符表示}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��程等号...
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��程等号...
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��程等号...
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+LaTeX Warning: File `14.TDVP方程等号右端' not found on input line 324.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:324: LaTeX Error: Unknown graphics extension: .TDVP.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.324 ...cs[scale=0.75]{14.TDVP方程等号右端}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (21.8189pt too wide) in paragraph at lines 321--327
+[]\C70/rm/m/n/12/4e � \C70/rm/m/n/12/66 / \C70/rm/m/n/12/62 ^^Q \C70/rm/m/n/12/4e � \C70/rm/m/n/12/53 � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/5c ^^F$[][]\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 	(\OML/cmm/m/it/12 A\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 i$\C70/rm/m/n/12/88 h \C70/rm/m/n/12/79 : \C70/rm/m/n/12/51 � \C70/rm/m/n/12/67 e|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/52 ) \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 MPS\C70/rm/m/n/12/76 � \C70/rm/m/n/12/4e $ \C70/rm/m/n/12/79 � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/6b c \C70/rm/m/n/12/4e � \C70/rm/m/n/12/88 h \C70/rm/m/n/12/79 : \C70/rm/m/n/12/5f b ^^O \C70/rm/m/n/12/4e � \C70/rm/m/n/12/53 �\OT1/cmr/m/n/12 one-site\C70/rm/m/n/12/54 �\OT1/cmr/m/n/12 zero-
+ []
+
+
+Overfull \hbox (18.87213pt too wide) in paragraph at lines 328--329
+[]\C70/rm/m/n/12/5c ^^F$\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 	\OMS/cmsy/m/n/12 i$\C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e $ \C70/rm/m/n/12/79 � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/6b c \C70/rm/m/n/12/4e � \C70/rm/m/n/12/5f b ^^O \C70/rm/m/n/12/88 h \C70/rm/m/n/12/79 :|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53 � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/5f � \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/5b � \C70/rm/m/n/12/5e � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/5f � \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/65 � \C70/rm/m/n/12/7a |\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/4f � \C70/rm/m/n/12/59 � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/62 � \C70/rm/m/n/12/5f q \C70/rm/m/n/12/7b � &$[] \OMS/cmsy/m/n/12 
+
+ []
+
+
+Overfull \hbox (26.22128pt too wide) in paragraph at lines 333--334
+[]\C70/rm/m/n/12/51 w \C70/rm/m/n/12/4f S \C70/rm/m/n/12/7b � \C70/rm/m/n/12/6c � \C70/rm/m/n/12/4e :|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4e �\OT1/cmr/m/n/12 n=1\C70/rm/m/n/12/68 < \C70/rm/m/n/12/70 � \C70/rm/m/n/12/5f ^^@ \C70/rm/m/n/12/59 � \C70/rm/m/n/12/5c ^^F$\OML/cmm/m/it/12 A[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )$\C70/rm/m/n/12/63 	 \C70/rm/m/n/12/4e 
+ \C70/rm/m/n/12/8f � \C70/rm/m/n/12/65 � \C70/rm/m/n/12/7a  \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V$\OML/cmm/m/it/12 ^^Nt$\C70/rm/m/n/12/65 � \C70/rm/m/n/12/95 �|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/6f ^^T \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/54 ^^N \C70/rm/m/n/12/8f � \C70/rm/m/n/12/88 L \C70/rm/m/n/12/6b c \C70/rm/m/n/12/4e � \C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 �|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 A[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 ) =
+ []
+
+
+Overfull \hbox (13.14174pt too wide) in paragraph at lines 333--334
+\OT1/cmr/m/n/12 1) = \OML/cmm/m/it/12 C\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 A[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n \OT1/cmr/m/n/12 + 1)$|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/8b � \C70/rm/m/n/12/7b � \C70/rm/m/n/12/6c � \C70/rm/m/n/12/54 �\OT1/cmr/m/n/12 one-site DMRG\C70/rm/m/n/12/7b � \C70/rm/m/n/12/6c � \C70/rm/m/n/12/97 ^ \C70/rm/m/n/12/5e 8 \C70/rm/m/n/12/76 � \C70/rm/m/n/12/4f <|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ; \C70/rm/m/n/12/89 � \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/4e $ \C70/rm/m/n/12/70 � \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/54 ^^L|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/66 / \C70/rm/m/n/12/5c ^^F\OT1/cmr/m/n/12 DMRG\C70/rm/m/n/12/4e -
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+
+LaTeX Warning: Citation `sachdev2011quantum' on page 17 undefined on input line 357.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+Overfull \hbox (6.49074pt too wide) in paragraph at lines 365--367
+\C70/rm/m/n/12/51 v \C70/rm/m/n/12/4e -$\OML/cmm/m/it/12 N[]$\C70/rm/m/n/12/66 / \C70/rm/m/n/12/7c � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/68 < \C70/rm/m/n/12/70 � \C70/rm/m/n/12/60 ; \C70/rm/m/n/12/65 p|\C70/rm/m/n/12/ff ^^L| $\OML/cmm/m/it/12 R[]$\C70/rm/m/n/12/66 / \C70/rm/m/n/12/7b ,\OT1/cmr/m/n/12 j\C70/rm/m/n/12/4e * \C70/rm/m/n/12/68 < \C70/rm/m/n/12/70 � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/4f M \C70/rm/m/n/12/7f n|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/52 � \C70/rm/m/n/12/91 �$\OML/cmm/m/it/12 k$\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/7b , \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/5e ^^C \C70/rm/m/n/12/91 � \C70/rm/m/n/12/6e 
+ \C70/rm/m/n/12/53 : � \C70/rm/m/n/12/50 <$\OML/cmm/m/it/12 k \OMS/cmsy/m/n/12 2 \OT1/cmr/m/n/12 [\OMS/cmsy/m/n/12 ^^@\OML/cmm/m/it/12 ^^Y=a; ^^Y=a\OT1/cmr/m/n/12 ]$|\C70/rm/m/n/12/ff ^^L|
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��态.
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��态.
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: Missing endcsname inserted.
+<to be read again> 
+                   �
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: Use of ??? doesn't match its definition.
+<argument> ???  
+                ! LaTeX3 Error: � invalid in file name. Lost: fi ��态.
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+d:/Gradute_thesis/thesis/论文/矩阵乘积态与含时变分原理.tex:394: LaTeX Error: File `TFIM基态' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.394 ...\includegraphics[width=260pt]{TFIM基态}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<TFIMSz0.jpeg, id=272, 596.9502pt x 495.0495pt>
+File: TFIMSz0.jpeg Graphic file (type jpg)
+<use TFIMSz0.jpeg>
+Package pdftex.def Info: TFIMSz0.jpeg  used on input line 400.
+(pdftex.def)             Requested size: 260.0pt x 215.61673pt.
+
+Overfull \hbox (21.73111pt too wide) in paragraph at lines 400--403
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19 <./TFIMSz0.jpeg>]
+
+LaTeX Warning: Citation `hauschild2018efficient' on page 20 undefined on input line 423.
+
+<tfi_tran1.jpg, id=277, 308.352pt x 302.3295pt>
+File: tfi_tran1.jpg Graphic file (type jpg)
+<use tfi_tran1.jpg>
+Package pdftex.def Info: tfi_tran1.jpg  used on input line 429.
+(pdftex.def)             Requested size: 238.27397pt x 229.99884pt.
+<tfi_tran2.jpg, id=278, 322.806pt x 308.95425pt>
+File: tfi_tran2.jpg Graphic file (type jpg)
+<use tfi_tran2.jpg>
+Package pdftex.def Info: tfi_tran2.jpg  used on input line 435.
+(pdftex.def)             Requested size: 238.27177pt x 229.99911pt.
+<tfi_tran4.jpg, id=279, 462.528pt x 346.896pt>
+File: tfi_tran4.jpg Graphic file (type jpg)
+<use tfi_tran4.jpg>
+Package pdftex.def Info: tfi_tran4.jpg  used on input line 443.
+(pdftex.def)             Requested size: 238.27162pt x 239.99896pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21 <./tfi_tran1.jpg> <./tfi_tran2.jpg> <./tfi_tran4.jpg>]
+<tfi_tran3.jpg, id=286, 486.01575pt x 338.4645pt>
+File: tfi_tran3.jpg Graphic file (type jpg)
+<use tfi_tran3.jpg>
+Package pdftex.def Info: tfi_tran3.jpg  used on input line 456.
+(pdftex.def)             Requested size: 340.2087pt x 236.92352pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22 <./tfi_tran3.jpg>]
+Overfull \hbox (28.8299pt too wide) in paragraph at lines 487--488
+[]\C70/rm/m/n/12/52 ) \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 DMRG-infinite\C70/rm/m/n/12/7b � \C70/rm/m/n/12/6c � B \C70/rm/m/n/12/89 � \C70/rm/m/n/12/7c � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/7c � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/57 � \C70/rm/m/n/12/60 ^^A|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/51 � \C70/rm/m/n/12/65 9 \C70/rm/m/n/12/53 � \C70/rm/m/n/12/54 � \C70/rm/m/n/12/5b � \C70/rm/m/n/12/98 ^^? \C70/rm/m/n/12/91 � \C70/rm/m/n/12/76 � \C70/rm/m/n/12/6a * \C70/rm/m/n/12/57 : \C70/rm/m/n/12/98 y|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5b � \C70/rm/m/n/12/73 � \C70/rm/m/n/12/91 � \C70/rm/m/n/12/5b P \C70/rm/m/n/12/6d � \C70/rm/m/n/12/70 k\OT1/cmr/m/n/12 (quntum
+ []
+
+<TFIMSzt1.jpeg, id=290, 462.528pt x 346.896pt>
+File: TFIMSzt1.jpeg Graphic file (type jpg)
+<use TFIMSzt1.jpeg>
+Package pdftex.def Info: TFIMSzt1.jpeg  used on input line 493.
+(pdftex.def)             Requested size: 214.44054pt x 160.83386pt.
+<TFIMSzt2.jpeg, id=291, 462.528pt x 346.896pt>
+File: TFIMSzt2.jpeg Graphic file (type jpg)
+<use TFIMSzt2.jpeg>
+Package pdftex.def Info: TFIMSzt2.jpeg  used on input line 499.
+(pdftex.def)             Requested size: 214.44054pt x 160.83386pt.
+<TFIMSzt3.jpeg, id=292, 462.528pt x 346.896pt>
+File: TFIMSzt3.jpeg Graphic file (type jpg)
+<use TFIMSzt3.jpeg>
+Package pdftex.def Info: TFIMSzt3.jpeg  used on input line 506.
+(pdftex.def)             Requested size: 214.44054pt x 160.83386pt.
+<TFIMSzt4.jpeg, id=293, 462.528pt x 346.896pt>
+File: TFIMSzt4.jpeg Graphic file (type jpg)
+<use TFIMSzt4.jpeg>
+Package pdftex.def Info: TFIMSzt4.jpeg  used on input line 512.
+(pdftex.def)             Requested size: 214.44054pt x 160.83386pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+<ee1.jpeg, id=298, 462.528pt x 346.896pt>
+File: ee1.jpeg Graphic file (type jpg)
+<use ee1.jpeg>
+Package pdftex.def Info: ee1.jpeg  used on input line 524.
+(pdftex.def)             Requested size: 238.27162pt x 230.0001pt.
+<ee2.jpeg, id=299, 462.528pt x 346.896pt>
+File: ee2.jpeg Graphic file (type jpg)
+<use ee2.jpeg>
+Package pdftex.def Info: ee2.jpeg  used on input line 530.
+(pdftex.def)             Requested size: 238.27162pt x 230.0001pt.
+<ee4.jpeg, id=300, 462.528pt x 346.896pt>
+File: ee4.jpeg Graphic file (type jpg)
+<use ee4.jpeg>
+Package pdftex.def Info: ee4.jpeg  used on input line 537.
+(pdftex.def)             Requested size: 238.27162pt x 230.0001pt.
+<ee3.jpeg, id=301, 462.528pt x 346.896pt>
+File: ee3.jpeg Graphic file (type jpg)
+<use ee3.jpeg>
+Package pdftex.def Info: ee3.jpeg  used on input line 543.
+(pdftex.def)             Requested size: 238.27162pt x 230.0001pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24 <./TFIMSzt1.jpeg> <./TFIMSzt2.jpeg> <./TFIMSzt3.jpeg> <./TFIMSzt4.jpeg>]
+
+LaTeX Warning: Citation `fishman2020itensor' on page 25 undefined on input line 553.
+
+<TFIMSzt7.jpg, id=305, 459.51675pt x 346.29375pt>
+File: TFIMSzt7.jpg Graphic file (type jpg)
+<use TFIMSzt7.jpg>
+Package pdftex.def Info: TFIMSzt7.jpg  used on input line 558.
+(pdftex.def)             Requested size: 238.26294pt x 170.00246pt.
+<tdvpe.jpg, id=306, 443.85825pt x 354.123pt>
+File: tdvpe.jpg Graphic file (type jpg)
+<use tdvpe.jpg>
+Package pdftex.def Info: tdvpe.jpg  used on input line 564.
+(pdftex.def)             Requested size: 238.27115pt x 170.00412pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25 <./ee1.jpeg> <./ee2.jpeg> <./ee4.jpeg> <./ee3.jpeg>]
+
+LaTeX Warning: Citation `collura2015quantum' on page 26 undefined on input line 575.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26 <./TFIMSzt7.jpg> <./tdvpe.jpg>]
+
+LaTeX Warning: Citation `collura2015quantum' on page 27 undefined on input line 587.
+
+<XXZcor0.2.jpg, id=315, 431.81325pt x 316.7835pt>
+File: XXZcor0.2.jpg Graphic file (type jpg)
+<use XXZcor0.2.jpg>
+Package pdftex.def Info: XXZcor0.2.jpg  used on input line 596.
+(pdftex.def)             Requested size: 214.44054pt x 157.31827pt.
+<XXZcor-0.2.jpg, id=316, 422.17725pt x 312.56775pt>
+File: XXZcor-0.2.jpg Graphic file (type jpg)
+<use XXZcor-0.2.jpg>
+Package pdftex.def Info: XXZcor-0.2.jpg  used on input line 602.
+(pdftex.def)             Requested size: 214.44054pt x 158.76357pt.
+<XXZcor0.2l12.jpg, id=317, 428.802pt x 313.77225pt>
+File: XXZcor0.2l12.jpg Graphic file (type jpg)
+<use XXZcor0.2l12.jpg>
+Package pdftex.def Info: XXZcor0.2l12.jpg  used on input line 609.
+(pdftex.def)             Requested size: 214.44054pt x 156.91446pt.
+<XXZcor0.5.jpg, id=318, 422.7795pt x 324.61275pt>
+File: XXZcor0.5.jpg Graphic file (type jpg)
+<use XXZcor0.5.jpg>
+Package pdftex.def Info: XXZcor0.5.jpg  used on input line 615.
+(pdftex.def)             Requested size: 214.44054pt x 164.65378pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28 <./XXZcor0.2.jpg> <./XXZcor-0.2.jpg> <./XXZcor0.2l12.jpg> <./XXZcor0.5.jpg>]
+
+LaTeX Warning: Citation `carleo2017solving' on page 29 undefined on input line 630.
+
+
+Overfull \hbox (19.51761pt too wide) in paragraph at lines 632--633
+\C70/rm/m/n/12/4e � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/59 � \C70/rm/m/n/12/4f U \C70/rm/m/n/12/52 ) \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 SVD\C70/rm/m/n/12/52 ^^F \C70/rm/m/n/12/89 � \C70/rm/m/n/12/67 � \C70/rm/m/n/12/90  \OT1/cmr/m/n/12 MPS|\C70/rm/m/n/12/ff ^^[| \OT1/cmr/m/n/12 MPS\C70/rm/m/n/12/76 � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/7f   \C70/rm/m/n/12/71 � \C70/rm/m/n/12/54 � \C70/rm/m/n/12/6d � \C70/rm/m/n/12/54 ^^H \C70/rm/m/n/12/6b c \C70/rm/m/n/12/4e � \C70/rm/m/n/12/5f b ^^O|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/7b , \C70/rm/m/n/12/4e � \C70/rm/m/n/12/8b � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/7a � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/7e � \C70/rm/m/n/12/4e � \C70/rm/m/n/12/8d �\OT1/cmr/m/n/12 MPS\C70/rm/m/n/12/76 �
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+No file 矩阵乘积态与含时变分原理.bbl.
+(./矩阵乘积态与含时变分原理.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred when \ifx on line 394 was incomplete)
+(\end occurred when \ifx on line 394 was incomplete)
+(\end occurred when \ifx on line 394 was incomplete)
+(\end occurred when \ifx on line 324 was incomplete)
+(\end occurred when \ifx on line 324 was incomplete)
+(\end occurred when \ifx on line 324 was incomplete)
+(\end occurred when \ifx on line 316 was incomplete)
+(\end occurred when \ifx on line 316 was incomplete)
+(\end occurred when \ifx on line 316 was incomplete)
+(\end occurred when \ifx on line 301 was incomplete)
+(\end occurred when \ifx on line 301 was incomplete)
+(\end occurred when \ifx on line 301 was incomplete)
+(\end occurred when \ifx on line 294 was incomplete)
+(\end occurred when \ifx on line 294 was incomplete)
+(\end occurred when \ifx on line 294 was incomplete)
+(\end occurred when \ifx on line 252 was incomplete)
+(\end occurred when \ifx on line 252 was incomplete)
+(\end occurred when \ifx on line 252 was incomplete)
+(\end occurred when \ifx on line 227 was incomplete)
+(\end occurred when \ifx on line 227 was incomplete)
+(\end occurred when \ifx on line 227 was incomplete)
+(\end occurred when \ifx on line 215 was incomplete)
+(\end occurred when \ifx on line 215 was incomplete)
+(\end occurred when \ifx on line 215 was incomplete)
+(\end occurred when \ifx on line 199 was incomplete)
+(\end occurred when \ifx on line 199 was incomplete)
+(\end occurred when \ifx on line 199 was incomplete)
+(\end occurred when \ifx on line 171 was incomplete)
+(\end occurred when \ifx on line 171 was incomplete)
+(\end occurred when \ifx on line 171 was incomplete)
+(\end occurred when \ifx on line 157 was incomplete)
+(\end occurred when \ifx on line 157 was incomplete)
+(\end occurred when \ifx on line 157 was incomplete)
+(\end occurred when \ifx on line 149 was incomplete)
+(\end occurred when \ifx on line 149 was incomplete)
+(\end occurred when \ifx on line 149 was incomplete)
+(\end occurred when \ifx on line 118 was incomplete)
+(\end occurred when \ifx on line 118 was incomplete)
+(\end occurred when \ifx on line 118 was incomplete)
+(\end occurred when \ifx on line 84 was incomplete)
+(\end occurred when \ifx on line 84 was incomplete)
+(\end occurred when \ifx on line 84 was incomplete)
+(\end occurred when \ifx on line 67 was incomplete)
+(\end occurred when \ifx on line 67 was incomplete)
+(\end occurred when \ifx on line 67 was incomplete)
+(\end occurred when \ifx on line 59 was incomplete)
+(\end occurred when \ifx on line 59 was incomplete)
+(\end occurred when \ifx on line 59 was incomplete) 
+Here is how much of TeX's memory you used:
+ 11097 strings out of 478268
+ 193216 string characters out of 5850345
+ 455314 words of memory out of 5000000
+ 28731 multiletter control sequences out of 15000+600000
+ 528502 words of font info for 243 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,17n,78p,1036b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on 矩阵乘积态与含时变分原理.pdf (29 pages, 1648243 bytes).
+PDF statistics:
+ 764 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 402 words of extra memory for PDF output out of 10000 (max. 10000000)
+

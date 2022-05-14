@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}引言}{5}{}%
+\contentsline {section}{\numberline {2}矩阵乘积态}{6}{}%
+\contentsline {subsection}{\numberline {2.1}张量基础知识}{6}{}%
+\contentsline {subsection}{\numberline {2.2}矩阵乘积态表示}{6}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}SVD分解和Schmidt分解}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}将任意量子态分解成MPS}{7}{}%
+\contentsline {subsection}{\numberline {2.3}纠缠熵}{9}{}%
+\contentsline {subsection}{\numberline {2.4}混合正交形式}{9}{}%
+\contentsline {section}{\numberline {3}张量网络算法}{11}{}%
+\contentsline {subsection}{\numberline {3.1}矩阵乘积算符}{11}{}%
+\contentsline {subsection}{\numberline {3.2}密度矩阵重整化群算法}{11}{}%
+\contentsline {subsection}{\numberline {3.3}时间演化块消减算法——TEBD}{12}{}%
+\contentsline {subsection}{\numberline {3.4}含时变分原理}{14}{}%
+\contentsline {section}{\numberline {4}量子淬火(Quantum quench)动力学研究}{17}{}%
+\contentsline {subsection}{\numberline {4.1}一维横场伊辛模型}{17}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}基态能量及磁化}{17}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}淬火后时间演化}{22}{}%
+\contentsline {subsection}{\numberline {4.2}一维XXZ自旋关联函数}{26}{}%
+\contentsline {section}{\numberline {5}总结与展望}{29}{}%
